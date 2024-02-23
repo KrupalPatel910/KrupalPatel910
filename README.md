@@ -27,8 +27,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase," /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,github,python,javascript,firebase,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,nextjs" />
 </div>
 
 
@@ -45,6 +45,6 @@
 <br/>
 <p align="center">
   <a href="https://github.com/KrupalPatel910">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrupalPatel&theme=radical" alt="KrupalPatel GitHub Contribution"/>
+<!--     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrupalPatel&theme=radical" alt="KrupalPatel GitHub Contribution"/> -->
   </a>
 </p>
